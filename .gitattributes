@@ -1,2 +1,2 @@
 sailash_week02_day03_pymongo.ipynb linguist-language=Python 
-sailash_week02_day03_MySQL.sql linguist-documentation=true
+*.sql linguist-detectable=true
