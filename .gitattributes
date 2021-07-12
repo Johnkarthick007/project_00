@@ -1,3 +1,4 @@
 sailash_week02_day03_pymongo.ipynb linguist-language=Python 
 *.sql linguist-detectable=true
+meal_info.json linguist-language=mongodb
 *.json linguist-detectable=true
